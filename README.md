@@ -1,2 +1,3 @@
-# azure-ai-engineer-associate-workshop
-Azure AI Engineer Associate Workshop
+# Azure AI Engineer Associate Workshop
+
+This workshop is part of Microsoft Certified: Azure AI Engineer Associate.
